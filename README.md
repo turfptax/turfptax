@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source sensor technologies
 - 📫 reach me on my website turfp.com
 
-openmuscle is my passion. An open-source prosethic sensor suite that detects forearm muscle contractions to gain training data for machine learning.
+openmuscle is my passion. An open-source prosethic sensor suite that detects finger movements by sampling topology changes in the forearm.
 
 <!---
 turfptax/turfptax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
