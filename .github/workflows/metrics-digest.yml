@@ -1,0 +1,42 @@
+name: Metrics digest
+
+on:
+  schedule:
+    # Mondays at 08:23 UTC
+    - cron: '23 8 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/metrics_digest.py
+      - .github/workflows/metrics-digest.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate metrics digest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/metrics_digest.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet data/metrics/; then
+            echo "No metrics changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/metrics/
+          git commit -m "chore(metrics): weekly digest [skip ci]"
+          git push
