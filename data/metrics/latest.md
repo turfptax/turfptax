@@ -1,6 +1,6 @@
 # Portfolio metrics
 
-_Generated 2026-05-02 04:15 UTC_
+_Generated 2026-05-02 04:16 UTC_
 
 ## Totals
 
@@ -23,9 +23,9 @@ _Generated 2026-05-02 04:15 UTC_
 
 ## Recently active (10)
 
+- 2026-05-02 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
 - 2026-05-02 · [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · Python
 - 2026-05-02 · [`truthsea-sim`](https://github.com/turfptax/truthsea-sim) · Python
-- 2026-05-02 · [`turfptax`](https://github.com/turfptax/turfptax)
 - 2026-04-25 · [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · Python
 - 2026-04-06 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
 - 2026-04-02 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
@@ -36,7 +36,7 @@ _Generated 2026-05-02 04:15 UTC_
 
 ## Language distribution (active repos)
 
-- Python: 23
+- Python: 24
 - TypeScript: 3
 - HTML: 2
 - Batchfile: 1
