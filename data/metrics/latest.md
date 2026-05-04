@@ -1,6 +1,6 @@
 # Portfolio metrics
 
-_Generated 2026-05-02 04:16 UTC_
+_Generated 2026-05-04 10:27 UTC_
 
 ## Totals
 
@@ -23,12 +23,12 @@ _Generated 2026-05-02 04:16 UTC_
 
 ## Recently active (10)
 
-- 2026-05-02 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-05-04 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-05-04 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
+- 2026-05-04 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
+- 2026-05-03 · [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · Python
 - 2026-05-02 · [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · Python
 - 2026-05-02 · [`truthsea-sim`](https://github.com/turfptax/truthsea-sim) · Python
-- 2026-04-25 · [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · Python
-- 2026-04-06 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
-- 2026-04-02 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-04-01 · [`bugout-monitor`](https://github.com/turfptax/bugout-monitor) · TypeScript
 - 2026-03-29 · [`offline-mesh-toolkit`](https://github.com/turfptax/offline-mesh-toolkit) · Batchfile
 - 2026-03-19 · [`cortex-mcp`](https://github.com/turfptax/cortex-mcp) · Python
