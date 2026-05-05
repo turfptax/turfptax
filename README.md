@@ -52,7 +52,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-05-04 · top 5 most recently pushed repos_
+_Auto-updated 2026-05-05 · top 5 most recently pushed repos_
 
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Wearable AI Memory (Pi Zero 2 W)
