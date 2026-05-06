@@ -52,13 +52,13 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-05-05 · top 5 most recently pushed repos_
+_Auto-updated 2026-05-06 · top 5 most recently pushed repos_
 
+- [`cortex-vision`](https://github.com/turfptax/cortex-vision) · `Python` — Video understanding sidecar for the Cortex AI companion ecosystem — scene detection, vision LLM description,…
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Wearable AI Memory (Pi Zero 2 W)
 - [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · `Python` — ESP32-S3 environmental sensor firmware (BME280 + TCS3200 + PIR → MQTT). OTA via ugit.
 - [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · `Python` — Cortex voice training pipeline — fine-tune Whisper on Cortex recordings for improved STT accuracy
-- [`truthsea-sim`](https://github.com/turfptax/truthsea-sim) · `Python` — TruthSea off-chain epistemic truth-scoring simulation with DAG propagation, worldview lenses, and 3D visualiz…
 <!-- ACTIVITY:END -->
 
 See also: [recent metrics digest](data/metrics/latest.md).
