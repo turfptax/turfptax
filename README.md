@@ -52,12 +52,12 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-06-08 · top 5 most recently pushed repos_
+_Auto-updated 2026-06-09 · top 5 most recently pushed repos_
 
+- [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
+- [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, ti…
 - [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) · `AGS Script` — Open Muscle Dev Kit (V0/V1): ESP32-C3 sensor-cell hardware (KiCad PCBs + gerbers) and MicroPython firmware fo…
 - [`ugit`](https://github.com/turfptax/ugit) · `Python` — Micropython OTA update from github 
-- [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, ti…
-- [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
 - [`cortex-pet`](https://github.com/turfptax/cortex-pet) · `Python` — Cortex Pet — Tamagotchi-style AI companion, originally a plugin in cortex-core (extracted 2026-05-09). Lives…
 <!-- ACTIVITY:END -->
 
