@@ -52,10 +52,10 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-06-20 · top 5 most recently pushed repos_
+_Auto-updated 2026-06-21 · top 5 most recently pushed repos_
 
-- [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, ti…
+- [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
 - [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · `Python` — Model performance harness for benchmarking local & remote LLMs across prompt types. Library + CLI + dashboard…
 - [`cortex-link`](https://github.com/turfptax/cortex-link) · `Python` — KeyMaster BLE Server for Waveshare ESP32-S3-LCD-1.47 with OTA updates via ugit
 - [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) · `AGS Script` — Open Muscle Dev Kit (V0/V1): ESP32-C3 sensor-cell hardware (KiCad PCBs + gerbers) and MicroPython firmware fo…
