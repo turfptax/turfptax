@@ -52,13 +52,13 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-06-22 · top 5 most recently pushed repos_
+_Auto-updated 2026-06-23 · top 5 most recently pushed repos_
 
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, ti…
+- [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) — Claude Code plugin for the Cortex wearable AI memory system
+- [`cortex-pet`](https://github.com/turfptax/cortex-pet) · `Python` — Cortex Pet — Tamagotchi-style AI companion, originally a plugin in cortex-core (extracted 2026-05-09). Lives…
+- [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · `Python` — Cortex voice training pipeline — fine-tune Whisper on Cortex recordings for improved STT accuracy
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
-- [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · `Python` — Model performance harness for benchmarking local & remote LLMs across prompt types. Library + CLI + dashboard…
-- [`cortex-link`](https://github.com/turfptax/cortex-link) · `Python` — KeyMaster BLE Server for Waveshare ESP32-S3-LCD-1.47 with OTA updates via ugit
-- [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) · `AGS Script` — Open Muscle Dev Kit (V0/V1): ESP32-C3 sensor-cell hardware (KiCad PCBs + gerbers) and MicroPython firmware fo…
 <!-- ACTIVITY:END -->
 
 See also: [recent metrics digest](data/metrics/latest.md).
