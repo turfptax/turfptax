@@ -52,7 +52,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-06-25 · top 5 most recently pushed repos_
+_Auto-updated 2026-06-26 · top 5 most recently pushed repos_
 
 - [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · `Python` — Cortex voice training pipeline — fine-tune Whisper on Cortex recordings for improved STT accuracy
 - [`cortex-vision`](https://github.com/turfptax/cortex-vision) · `Python` — Video understanding sidecar for the Cortex AI companion ecosystem — scene detection, vision LLM description,…
