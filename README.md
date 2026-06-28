@@ -52,13 +52,13 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-06-27 · top 5 most recently pushed repos_
+_Auto-updated 2026-06-28 · top 5 most recently pushed repos_
 
+- [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `Python` — Cortex Hub desktop app — system tray + browser UI for your AI companion Pi
 - [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · `Python` — Cortex voice training pipeline — fine-tune Whisper on Cortex recordings for improved STT accuracy
 - [`cortex-vision`](https://github.com/turfptax/cortex-vision) · `Python` — Video understanding sidecar for the Cortex AI companion ecosystem — scene detection, vision LLM description,…
 - [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) · `Python` — Claude Code plugin for the Cortex wearable AI memory system
 - [`cortex-pet`](https://github.com/turfptax/cortex-pet) · `Python` — Cortex Pet — Tamagotchi-style AI companion, originally a plugin in cortex-core (extracted 2026-05-09). Lives…
-- [`cortex-mcp`](https://github.com/turfptax/cortex-mcp) · `Python` — Cortex - Wearable AI memory system. MCP server and CLI for Cortex Link (ESP32) and Cortex Core (Pi Zero).
 <!-- ACTIVITY:END -->
 
 See also: [recent metrics digest](data/metrics/latest.md).
