@@ -1,6 +1,6 @@
 # Portfolio metrics
 
-_Generated 2026-06-22 10:20 UTC_
+_Generated 2026-06-29 09:57 UTC_
 
 ## Totals
 
@@ -19,24 +19,24 @@ _Generated 2026-06-22 10:20 UTC_
 - [`uMyo_and_uLabel_python_tools`](https://github.com/turfptax/uMyo_and_uLabel_python_tools) — **2★**
 - [`umyo--om-tools`](https://github.com/turfptax/umyo--om-tools) — **2★**
 - [`turfptax`](https://github.com/turfptax/turfptax) — **1★**
-- [`cortex-link`](https://github.com/turfptax/cortex-link) — **1★**
+- [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) — **1★**
 
 ## Recently active (10)
 
-- 2026-06-22 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
-- 2026-06-22 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
-- 2026-06-22 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
+- 2026-06-29 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-06-28 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
+- 2026-06-24 · [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · Python
+- 2026-06-24 · [`cortex-vision`](https://github.com/turfptax/cortex-vision) · Python
+- 2026-06-24 · [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) · Python
+- 2026-06-24 · [`cortex-pet`](https://github.com/turfptax/cortex-pet) · Python
+- 2026-06-24 · [`cortex-mcp`](https://github.com/turfptax/cortex-mcp) · Python
+- 2026-06-24 · [`cortex-link`](https://github.com/turfptax/cortex-link) · Python
+- 2026-06-24 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-06-14 · [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · Python
-- 2026-06-10 · [`cortex-link`](https://github.com/turfptax/cortex-link) · Python
-- 2026-06-08 · [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) · AGS Script
-- 2026-06-08 · [`ugit`](https://github.com/turfptax/ugit) · Python
-- 2026-05-09 · [`cortex-pet`](https://github.com/turfptax/cortex-pet) · Python
-- 2026-05-07 · [`cortex-vision`](https://github.com/turfptax/cortex-vision) · Python
-- 2026-05-03 · [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · Python
 
 ## Language distribution (active repos)
 
-- Python: 27
+- Python: 28
 - TypeScript: 3
 - HTML: 2
 - AGS Script: 1
