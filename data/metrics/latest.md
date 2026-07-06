@@ -1,6 +1,6 @@
 # Portfolio metrics
 
-_Generated 2026-06-29 09:57 UTC_
+_Generated 2026-07-06 09:42 UTC_
 
 ## Totals
 
@@ -23,15 +23,15 @@ _Generated 2026-06-29 09:57 UTC_
 
 ## Recently active (10)
 
-- 2026-06-29 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
-- 2026-06-28 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
+- 2026-07-06 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-07-02 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
+- 2026-06-29 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
 - 2026-06-24 · [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · Python
 - 2026-06-24 · [`cortex-vision`](https://github.com/turfptax/cortex-vision) · Python
 - 2026-06-24 · [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) · Python
 - 2026-06-24 · [`cortex-pet`](https://github.com/turfptax/cortex-pet) · Python
 - 2026-06-24 · [`cortex-mcp`](https://github.com/turfptax/cortex-mcp) · Python
 - 2026-06-24 · [`cortex-link`](https://github.com/turfptax/cortex-link) · Python
-- 2026-06-24 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-06-14 · [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · Python
 
 ## Language distribution (active repos)
