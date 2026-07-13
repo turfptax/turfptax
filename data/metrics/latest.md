@@ -1,6 +1,6 @@
 # Portfolio metrics
 
-_Generated 2026-07-06 09:42 UTC_
+_Generated 2026-07-13 09:34 UTC_
 
 ## Totals
 
@@ -23,9 +23,9 @@ _Generated 2026-07-06 09:42 UTC_
 
 ## Recently active (10)
 
-- 2026-07-06 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
-- 2026-07-02 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
-- 2026-06-29 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
+- 2026-07-13 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-07-13 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · Python
+- 2026-07-13 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-06-24 · [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · Python
 - 2026-06-24 · [`cortex-vision`](https://github.com/turfptax/cortex-vision) · Python
 - 2026-06-24 · [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) · Python
