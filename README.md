@@ -52,7 +52,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-07-16 · top 5 most recently pushed repos_
+_Auto-updated 2026-07-17 · top 5 most recently pushed repos_
 
 - [`turfptax.github.io`](https://github.com/turfptax/turfptax.github.io) · `HTML` — (no description)
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` — Cortex Core — Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, ti…
