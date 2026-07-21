@@ -3,7 +3,7 @@
 
 Public-safe means: only data already visible on the public profile (stars,
 repo metadata, language). Detailed traffic/clones/referrers are NOT included
-here — those go in the private dashboards repo (see Phase 3B docs).
+here - those go in the private dashboards repo (see Phase 3B docs).
 """
 from __future__ import annotations
 
@@ -71,7 +71,7 @@ def render(repos: list[dict]) -> str:
         lines.append("_(no starred repos yet)_")
     else:
         for r in starred:
-            lines.append(f"- [`{r['name']}`]({r['url']}) — **{r['stargazerCount']}★**")
+            lines.append(f"- [`{r['name']}`]({r['url']}) - **{r['stargazerCount']}★**")
 
     lines += ["", f"## Recently active ({TOP_N})", ""]
     for r in by_recent:

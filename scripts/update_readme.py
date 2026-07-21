@@ -51,7 +51,7 @@ def render(repos: list[dict]) -> str:
         desc = r.get("description") or "(no description)"
         if len(desc) > DESC_MAX:
             desc = desc[: DESC_MAX - 1].rstrip() + "…"
-        lines.append(f"- [`{r['name']}`]({r['url']}){lang_str} — {desc}")
+        lines.append(f"- [`{r['name']}`]({r['url']}){lang_str} - {desc}")
     return "\n".join(lines)
 
 
