@@ -22,7 +22,7 @@ A Raspberry Pi Zero 2 W you wear that captures audio, runs local STT, and stores
 
 ### Open Muscle, Open-Source Neurotech
 
-A 501(c)(3) building accessible prosthetic sensing. Pressure myography (PMG) and tissue deformation myography (TDMG) for finger tracking, no EMG required, using custom flex PCBs and real-time ML.
+A building accessible prosthetic sensing. Pressure myography (PMG) and tissue deformation myography (TDMG) for finger tracking, no EMG required, using custom flex PCBs and real-time ML.
 
 - [Open Muscle Hub](https://github.com/Open-Muscle/OpenMuscle-Hub) is the central docs and build guides
 - [FlexGrid](https://github.com/Open-Muscle/OpenMuscle-FlexGrid) is a 60-sensor wearable pressure array
