@@ -53,13 +53,13 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-07-23 · top 5 most recently pushed repos_
+_Auto-updated 2026-07-24 · top 5 most recently pushed repos_
 
-- [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · `Python` - Your own AI memory, in the cloud you own. Deploy a private, single-owner AI memory service (web Hub + MCP for…
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `TypeScript` - Cortex Hub desktop app: system tray + browser UI for your AI companion Pi
+- [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · `Python` - Your own AI memory, in the cloud you own. Deploy a private, single-owner AI memory service (web Hub + MCP for…
+- [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` - Cortex Core: Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, tim…
 - [`turfptax.github.io`](https://github.com/turfptax/turfptax.github.io) · `HTML` - (no description)
 - [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) · `Python` - Claude Code plugin for the Cortex wearable AI memory system
-- [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · `Python` - Model performance harness for benchmarking local & remote LLMs across prompt types. Library + CLI + dashboard…
 <!-- ACTIVITY:END -->
 
 See also: [recent metrics digest](data/metrics/latest.md).
