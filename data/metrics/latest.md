@@ -1,10 +1,10 @@
 # Portfolio metrics
 
-_Generated 2026-07-21 23:15 UTC_
+_Generated 2026-07-27 09:36 UTC_
 
 ## Totals
 
-- Public own repos: **46** (40 active, 6 archived)
+- Public own repos: **46** (35 active, 11 archived)
 - Public forks: **2**
 - Total stars across own repos: **224**
 
@@ -23,20 +23,20 @@ _Generated 2026-07-21 23:15 UTC_
 
 ## Recently active (10)
 
-- 2026-07-21 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
-- 2026-07-21 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
-- 2026-07-21 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
-- 2026-07-21 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
+- 2026-07-27 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-07-27 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
+- 2026-07-27 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
+- 2026-07-27 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
 - 2026-07-15 · [`turfptax.github.io`](https://github.com/turfptax/turfptax.github.io) · HTML
-- 2026-06-24 · [`cortex-voice-training`](https://github.com/turfptax/cortex-voice-training) · Python
-- 2026-06-24 · [`cortex-vision`](https://github.com/turfptax/cortex-vision) · Python
 - 2026-06-24 · [`cortex-plugin`](https://github.com/turfptax/cortex-plugin) · Python
-- 2026-06-24 · [`cortex-pet`](https://github.com/turfptax/cortex-pet) · Python
-- 2026-06-24 · [`cortex-mcp`](https://github.com/turfptax/cortex-mcp) · Python
+- 2026-06-14 · [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · Python
+- 2026-06-08 · [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) · AGS Script
+- 2026-06-08 · [`ugit`](https://github.com/turfptax/ugit) · Python
+- 2026-05-03 · [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · Python
 
 ## Language distribution (active repos)
 
-- Python: 28
+- Python: 23
 - TypeScript: 4
 - HTML: 3
 - AGS Script: 1
