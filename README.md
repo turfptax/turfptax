@@ -53,7 +53,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-07-29 · top 5 most recently pushed repos_
+_Auto-updated 2026-07-30 · top 5 most recently pushed repos_
 
 - [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · `Python` - Your own AI memory, in the cloud you own. Deploy a private, single-owner AI memory service (web Hub + MCP for…
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` - Cortex Core: Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, tim…
