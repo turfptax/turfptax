@@ -1,12 +1,12 @@
 # Portfolio metrics
 
-_Generated 2026-07-27 09:36 UTC_
+_Generated 2026-08-03 09:35 UTC_
 
 ## Totals
 
 - Public own repos: **46** (35 active, 11 archived)
 - Public forks: **2**
-- Total stars across own repos: **224**
+- Total stars across own repos: **225**
 
 ## Top by stars
 
@@ -19,12 +19,12 @@ _Generated 2026-07-27 09:36 UTC_
 - [`uMyo_and_uLabel_python_tools`](https://github.com/turfptax/uMyo_and_uLabel_python_tools) - **2★**
 - [`umyo--om-tools`](https://github.com/turfptax/umyo--om-tools) - **2★**
 - [`turfptax`](https://github.com/turfptax/turfptax) - **1★**
-- [`orangepi-whisplay`](https://github.com/turfptax/orangepi-whisplay) - **1★**
+- [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) - **1★**
 
 ## Recently active (10)
 
-- 2026-07-27 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
-- 2026-07-27 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
+- 2026-08-03 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-08-02 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
 - 2026-07-27 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-07-27 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
 - 2026-07-15 · [`turfptax.github.io`](https://github.com/turfptax/turfptax.github.io) · HTML
