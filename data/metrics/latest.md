@@ -1,18 +1,18 @@
 # Portfolio metrics
 
-_Generated 2026-08-03 09:35 UTC_
+_Generated 2026-08-10 08:53 UTC_
 
 ## Totals
 
 - Public own repos: **46** (35 active, 11 archived)
 - Public forks: **2**
-- Total stars across own repos: **225**
+- Total stars across own repos: **226**
 
 ## Top by stars
 
 - [`ugit`](https://github.com/turfptax/ugit) - **145★**
 - [`openmuscle`](https://github.com/turfptax/openmuscle) - **47★**
-- [`micropython-st7735s-tutorial`](https://github.com/turfptax/micropython-st7735s-tutorial) - **8★**
+- [`micropython-st7735s-tutorial`](https://github.com/turfptax/micropython-st7735s-tutorial) - **9★**
 - [`lask4`](https://github.com/turfptax/lask4) - **5★**
 - [`cortex-core`](https://github.com/turfptax/cortex-core) - **2★**
 - [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) - **2★**
@@ -23,8 +23,8 @@ _Generated 2026-08-03 09:35 UTC_
 
 ## Recently active (10)
 
-- 2026-08-03 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
-- 2026-08-02 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
+- 2026-08-10 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-08-09 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
 - 2026-07-27 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-07-27 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
 - 2026-07-15 · [`turfptax.github.io`](https://github.com/turfptax/turfptax.github.io) · HTML
