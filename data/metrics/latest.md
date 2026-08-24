@@ -1,12 +1,12 @@
 # Portfolio metrics
 
-_Generated 2026-08-17 09:03 UTC_
+_Generated 2026-08-24 09:07 UTC_
 
 ## Totals
 
 - Public own repos: **46** (35 active, 11 archived)
 - Public forks: **2**
-- Total stars across own repos: **226**
+- Total stars across own repos: **227**
 
 ## Top by stars
 
@@ -16,14 +16,14 @@ _Generated 2026-08-17 09:03 UTC_
 - [`lask4`](https://github.com/turfptax/lask4) - **5★**
 - [`cortex-core`](https://github.com/turfptax/cortex-core) - **2★**
 - [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) - **2★**
+- [`ESP32Watch`](https://github.com/turfptax/ESP32Watch) - **2★**
 - [`uMyo_and_uLabel_python_tools`](https://github.com/turfptax/uMyo_and_uLabel_python_tools) - **2★**
 - [`umyo--om-tools`](https://github.com/turfptax/umyo--om-tools) - **2★**
 - [`turfptax`](https://github.com/turfptax/turfptax) - **1★**
-- [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) - **1★**
 
 ## Recently active (10)
 
-- 2026-08-17 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-08-24 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
 - 2026-08-09 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
 - 2026-07-27 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
 - 2026-07-27 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
