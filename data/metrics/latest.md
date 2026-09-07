@@ -1,12 +1,12 @@
 # Portfolio metrics
 
-_Generated 2026-08-31 16:12 UTC_
+_Generated 2026-09-07 14:17 UTC_
 
 ## Totals
 
-- Public own repos: **46** (35 active, 11 archived)
-- Public forks: **2**
-- Total stars across own repos: **230**
+- Public own repos: **47** (36 active, 11 archived)
+- Public forks: **3**
+- Total stars across own repos: **231**
 
 ## Top by stars
 
@@ -23,7 +23,8 @@ _Generated 2026-08-31 16:12 UTC_
 
 ## Recently active (10)
 
-- 2026-08-31 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-09-07 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-09-07 · [`countermarch-web`](https://github.com/turfptax/countermarch-web) · HTML
 - 2026-08-30 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
 - 2026-08-09 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
 - 2026-07-27 · [`cortex-core`](https://github.com/turfptax/cortex-core) · Python
@@ -32,13 +33,12 @@ _Generated 2026-08-31 16:12 UTC_
 - 2026-06-14 · [`lemon-squeeze`](https://github.com/turfptax/lemon-squeeze) · Python
 - 2026-06-08 · [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) · AGS Script
 - 2026-06-08 · [`ugit`](https://github.com/turfptax/ugit) · Python
-- 2026-05-03 · [`anti-gaslight-firmware`](https://github.com/turfptax/anti-gaslight-firmware) · Python
 
 ## Language distribution (active repos)
 
 - Python: 23
+- HTML: 4
 - TypeScript: 4
-- HTML: 3
 - AGS Script: 1
 - Batchfile: 1
 - C: 1
