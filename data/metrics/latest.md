@@ -1,12 +1,12 @@
 # Portfolio metrics
 
-_Generated 2026-09-14 15:04 UTC_
+_Generated 2026-09-21 15:09 UTC_
 
 ## Totals
 
 - Public own repos: **47** (36 active, 11 archived)
 - Public forks: **3**
-- Total stars across own repos: **231**
+- Total stars across own repos: **233**
 
 ## Top by stars
 
@@ -15,15 +15,15 @@ _Generated 2026-09-14 15:04 UTC_
 - [`micropython-st7735s-tutorial`](https://github.com/turfptax/micropython-st7735s-tutorial) - **9★**
 - [`lask4`](https://github.com/turfptax/lask4) - **5★**
 - [`ESP32Watch`](https://github.com/turfptax/ESP32Watch) - **4★**
+- [`orangepi-whisplay`](https://github.com/turfptax/orangepi-whisplay) - **3★**
 - [`cortex-core`](https://github.com/turfptax/cortex-core) - **2★**
 - [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) - **2★**
 - [`uMyo_and_uLabel_python_tools`](https://github.com/turfptax/uMyo_and_uLabel_python_tools) - **2★**
 - [`umyo--om-tools`](https://github.com/turfptax/umyo--om-tools) - **2★**
-- [`turfptax`](https://github.com/turfptax/turfptax) - **1★**
 
 ## Recently active (10)
 
-- 2026-09-14 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-09-21 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
 - 2026-09-07 · [`countermarch-web`](https://github.com/turfptax/countermarch-web) · HTML
 - 2026-08-30 · [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · TypeScript
 - 2026-08-09 · [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · Python
