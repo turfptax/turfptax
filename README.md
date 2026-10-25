@@ -53,13 +53,13 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-10-24 · top 5 most recently pushed repos_
+_Auto-updated 2026-10-25 · top 5 most recently pushed repos_
 
+- [`macro-organizm`](https://github.com/turfptax/macro-organizm) · `JavaScript` - Interactive D3 pages on money supply (M0 to M4), money creation and documented institutional ties, with sourc…
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `TypeScript` - Cortex Hub desktop app: system tray + browser UI for your AI companion Pi
 - [`countermarch-web`](https://github.com/turfptax/countermarch-web) · `HTML` - Public pages for the Countermarch game
 - [`Cortex-Cloud`](https://github.com/turfptax/Cortex-Cloud) · `Python` - Your own AI memory, in the cloud you own. Deploy a private, single-owner AI memory service (web Hub + MCP for…
 - [`cortex-core`](https://github.com/turfptax/cortex-core) · `Python` - Cortex Core: Pi-side memory + overseer plugin. Local-first wearable AI memory: notes, sessions, projects, tim…
-- [`turfptax.github.io`](https://github.com/turfptax/turfptax.github.io) · `HTML` - (no description)
 <!-- ACTIVITY:END -->
 
 See also: [recent metrics digest](data/metrics/latest.md).
