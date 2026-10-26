@@ -53,7 +53,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-10-25 · top 5 most recently pushed repos_
+_Auto-updated 2026-10-26 · top 5 most recently pushed repos_
 
 - [`macro-organizm`](https://github.com/turfptax/macro-organizm) · `JavaScript` - Interactive D3 pages on money supply (M0 to M4), money creation and documented institutional ties, with sourc…
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `TypeScript` - Cortex Hub desktop app: system tray + browser UI for your AI companion Pi
