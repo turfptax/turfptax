@@ -53,7 +53,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-11-10 · top 5 most recently pushed repos_
+_Auto-updated 2026-11-11 · top 5 most recently pushed repos_
 
 - [`ugit`](https://github.com/turfptax/ugit) · `Python` - Micropython OTA update from github 
 - [`bugout-monitor`](https://github.com/turfptax/bugout-monitor) · `TypeScript` - AI-powered disaster preparedness dashboard with OSINT threat monitoring, equipment tracking, and LLM integrat…
