@@ -1,12 +1,12 @@
 # Portfolio metrics
 
-_Generated 2026-11-09 18:54 UTC_
+_Generated 2026-11-16 18:40 UTC_
 
 ## Totals
 
 - Public own repos: **48** (37 active, 11 archived)
 - Public forks: **3**
-- Total stars across own repos: **236**
+- Total stars across own repos: **237**
 
 ## Top by stars
 
@@ -17,13 +17,13 @@ _Generated 2026-11-09 18:54 UTC_
 - [`lask4`](https://github.com/turfptax/lask4) - **5★**
 - [`orangepi-whisplay`](https://github.com/turfptax/orangepi-whisplay) - **3★**
 - [`OM-Dev-Kit`](https://github.com/turfptax/OM-Dev-Kit) - **2★**
+- [`offline-mesh-toolkit`](https://github.com/turfptax/offline-mesh-toolkit) - **2★**
 - [`uMyo_and_uLabel_python_tools`](https://github.com/turfptax/uMyo_and_uLabel_python_tools) - **2★**
 - [`umyo--om-tools`](https://github.com/turfptax/umyo--om-tools) - **2★**
-- [`turfptax`](https://github.com/turfptax/turfptax) - **1★**
 
 ## Recently active (10)
 
-- 2026-11-09 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-11-16 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
 - 2026-11-04 · [`ugit`](https://github.com/turfptax/ugit) · Python
 - 2026-11-01 · [`bugout-monitor`](https://github.com/turfptax/bugout-monitor) · TypeScript
 - 2026-10-25 · [`macro-organizm`](https://github.com/turfptax/macro-organizm) · JavaScript
