@@ -1,6 +1,6 @@
 # Portfolio metrics
 
-_Generated 2026-11-16 18:40 UTC_
+_Generated 2026-11-23 20:19 UTC_
 
 ## Totals
 
@@ -23,7 +23,7 @@ _Generated 2026-11-16 18:40 UTC_
 
 ## Recently active (10)
 
-- 2026-11-16 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
+- 2026-11-23 · [`turfptax`](https://github.com/turfptax/turfptax) · Python
 - 2026-11-04 · [`ugit`](https://github.com/turfptax/ugit) · Python
 - 2026-11-01 · [`bugout-monitor`](https://github.com/turfptax/bugout-monitor) · TypeScript
 - 2026-10-25 · [`macro-organizm`](https://github.com/turfptax/macro-organizm) · JavaScript
