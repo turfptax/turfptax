@@ -53,7 +53,7 @@ A small library for over-the-air firmware updates from a GitHub repo. Widely use
 ## Latest activity
 
 <!-- ACTIVITY:START -->
-_Auto-updated 2026-11-25 · top 5 most recently pushed repos_
+_Auto-updated 2026-11-26 · top 5 most recently pushed repos_
 
 - [`cortex-desktop`](https://github.com/turfptax/cortex-desktop) · `TypeScript` - Cortex Hub desktop app: system tray + browser UI for your AI companion Pi
 - [`ugit`](https://github.com/turfptax/ugit) · `Python` - Micropython OTA update from github 
